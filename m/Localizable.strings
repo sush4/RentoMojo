@@ -1,0 +1,11 @@
+/* 
+  Localize.strings
+  m
+
+  Created by Sushant kumar on 09/01/18.
+  Copyright © 2018 Sushant kumar. All rights reserved.
+*/
+
+"search_movie" = "Search Movie";
+"movie_detail" = "Movie Detail";
+"rate" = "Rate : ";
